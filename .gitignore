@@ -44,3 +44,7 @@ docs/_build
 # Cookiecutter
 output/
 boilerplate/
+
+# IntelliJ
+.idea/
+*.iml
